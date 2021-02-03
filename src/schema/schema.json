@@ -1,0 +1,60 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Boxing/MMA Helmet",
+          "price": 29.99,
+          "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Teath Protecter",
+          "price": 7.99,
+          "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Bands",
+          "price": 8.99,
+          "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "MMA Gloves",
+          "price": 29.99,
+          "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Boxing Gloves",
+          "price": 39.99,
+          "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Chestplate",
+          "price": 49.99,
+          "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Shin-guard",
+          "price": 29.99,
+          "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+        }
+      }
+    ]
+  }
