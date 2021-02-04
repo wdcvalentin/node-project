@@ -7,10 +7,9 @@ const port = 5000;
 app.use(cors());
 app.use(express.json());
 
-const startServer = async () => {
+const startServer = () => {
   try {
     app.use('/product', productsRouter);
-
     app.listen(port, () => {
       console.log(`Server is running on port: ${port}`);
     });
